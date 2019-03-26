@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ueneijuse.neilpostman.org/sitemap.xml
